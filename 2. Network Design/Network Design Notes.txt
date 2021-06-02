@@ -8,6 +8,9 @@ https://www.youtube.com/watch?v=tkaMmFoWwaA
 Connectivity Type Selection Method
 https://docs.aws.amazon.com/whitepapers/latest/hybrid-connectivity/connectivity-type-selection-summary.html
 
+Architecture Design Considerations
+https://wa.aws.amazon.com/wat.question.REL_2.en.html
+
 Page #6 Onwards
 https://d1.awsstatic.com/whitepapers/building-a-scalable-and-secure-multi-vpc-aws-network-infrastructure.pdf
 
