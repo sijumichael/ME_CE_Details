@@ -1,0 +1,10 @@
+
+Attribute Based Access Controls (ABAC) - Create the correct Tags while creating IAM
+https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_attribute-based-access-control.html
+https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction_attribute-based-access-control.html
+
+Least Privileges
+https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html#grant-least-privilege
+
+All the Best Practices for IAM
+https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
