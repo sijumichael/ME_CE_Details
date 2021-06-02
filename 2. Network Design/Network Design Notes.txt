@@ -1,0 +1,15 @@
+
+Building Secure Multi VPC Network in AWS
+https://d1.awsstatic.com/whitepapers/building-a-scalable-and-secure-multi-vpc-aws-network-infrastructure.pdf
+
+Latest on the design of Networks in re:Invent 2020
+https://www.youtube.com/watch?v=tkaMmFoWwaA
+
+Connectivity Type Selection Method
+https://docs.aws.amazon.com/whitepapers/latest/hybrid-connectivity/connectivity-type-selection-summary.html
+
+Page #6 Onwards
+https://d1.awsstatic.com/whitepapers/building-a-scalable-and-secure-multi-vpc-aws-network-infrastructure.pdf
+
+Once VPC is ready follow along this concepts of Subnets, SGs
+https://medium.com/an-idea/create-a-secure-aws-vpc-architecture-fd4aeb0f0b25

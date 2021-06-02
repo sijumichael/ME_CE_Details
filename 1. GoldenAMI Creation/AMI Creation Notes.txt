@@ -1,0 +1,13 @@
+1. Golden AMI Creation
+AWS Native Service - EC2 Image Builder
+https://aws.amazon.com/image-builder/
+ImageBuilder pipeline
+https://www.youtube.com/watch?v=K5d2VdByohs
+
+2. Using Qualys scanner agents
+https://aws.amazon.com/blogs/apn/creating-a-golden-ami-pipeline-integrated-with-qualys-for-vulnerability-assessments/
+https://www.youtube.com/watch?v=3jCVnSLmaiM
+My previous company Capital One was already using the Qualys scans for EC2 scans and defining Container compliance.
+https://aws.amazon.com/blogs/awsmarketplace/announcing-the-golden-ami-pipeline/
+Sample Git
+https://github.com/aws-samples/golden-ami-pipeline-with-qualys
