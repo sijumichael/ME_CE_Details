@@ -11,3 +11,6 @@ Complete Steps for this API Calls trace can be done with the following steps
    The invoke URL for the private API includes the incorrect Domain Name System (DNS) names.
 
 https://aws.amazon.com/premiumsupport/knowledge-center/api-gateway-private-endpoint-connection/
+
+More on the Gateway 403 tracing
+https://aws.amazon.com/premiumsupport/knowledge-center/api-gateway-troubleshoot-403-forbidden/
