@@ -1,0 +1,13 @@
+Enable the logging for API if its not done so far in CloudWatch
+https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-logging.html#set-up-access-logging-using-console
+
+Most of the time during a redeployment of latest version it can happen due to spelling mistakes in endpoint URL.
+Example : A new developer may add "s" at the end or removing.
+
+Complete Steps for this API Calls trace can be done with the following steps
+   The API Gateway resource policy for the private API is incorrectly configured.
+   The VPC endpoint policy is incorrectly configured.
+   The rules for any Amazon VPC security groups are incorrectly configured.
+   The invoke URL for the private API includes the incorrect Domain Name System (DNS) names.
+
+https://aws.amazon.com/premiumsupport/knowledge-center/api-gateway-private-endpoint-connection/
