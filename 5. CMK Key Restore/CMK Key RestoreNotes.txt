@@ -1,0 +1,11 @@
+How to restore the key from the backup
+https://docs.aws.amazon.com/kms/latest/developerguide/fix-keystore.html#fix-keystore-recover-backing-key
+
+Creating the deleted CloudHSM Cluster from backup
+https://docs.aws.amazon.com/cloudhsm/latest/userguide/create-cluster-from-backup.html
+
+*** This method will work only if there is a backup.
+
+Once restore from backup it should be enabled as usual to work in BAU mode
+Status details of key for a sneak peak
+https://docs.aws.amazon.com/kms/latest/developerguide/key-state.html
